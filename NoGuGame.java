@@ -1,4 +1,4 @@
-package projects;
+package projects.NumberGuessingGame;
 
 import java.util.Scanner;
 import java.lang.Math;
